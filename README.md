@@ -1,8 +1,6 @@
 # NaNo's Game Systems Collection
 
-**Author:** Nano / Santiago, Chile  
-**Role:** Gameplay Programmer | Roblox Developer  
-**Contact:** [nanoinnovations2025@gmail.com](mailto:nanoinnovations2025@gmail.com) | Discord: `nanoworker`
+**Author:** speoplee / Santiago, Chile 
 
 ---
 
@@ -43,22 +41,19 @@ Most of these systems are functional prototypes.
 ### 2. Inventory System
 - RE8-style inventory UI
 - Grid-based with multi-slot item support
-- Supports item sorting and briefcase design
 - Fully functional for modular integration
 
 ---
 
 ### 3. Lockpicking Minigame
 - Interactive lockpicking mechanics
-- Inspired by VR but adapted for flatscreen
-- Innovative and engaging gameplay
+- Inspired by Ares VR but adapted for flatscreen
 
 ---
 
 ### 4. Pathfinding
 - A* 3D optimized for real-time Roblox games
-- Efficient navigation along X and Z axes
-- Flexible integration with other systems
+- Navigation along X and Z axes
 
 ---
 
